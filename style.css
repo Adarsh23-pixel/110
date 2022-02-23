@@ -1,0 +1,63 @@
+body{
+  background-color: #F5DBDA;  
+  font-family: 'Crimson Text', serif;
+    
+}
+.heading_div{
+    background: white;
+    color:red;
+    
+}
+.heading_div img{
+    width:100px;
+
+}
+.main_div{
+background: #ffd2c7;
+padding: 10px;
+margin-top: 10px;
+border: 3px solid white;
+}
+.main_div label {
+    background: white;
+    width: 300px;
+    padding: 10px;
+    margin-bottom:0px;
+}
+.main_div button {
+    width:300px;
+    font-size:16px;
+    border:1px solid;
+
+} 
+#camera,#result{
+    border:2px solid white;
+    width:300px;
+    height:300px;
+
+}
+.footer_div{
+    margin-bottom: 50px;
+
+}
+.footer_div h4{
+background-color: seashell;
+border-radius: 10px;
+padding:5px;
+box-shadow:5px 5px 18px white
+}
+.footer_div img{
+    width:70px;
+
+}
+.copy_right_footer{
+    text-align: center;
+    color:grey;
+    font-size:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    width: 100%;
+    position:fixed;
+    bottom:0px;
+    line-height: 3;
+}
